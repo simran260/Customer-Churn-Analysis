@@ -14,7 +14,7 @@ Overview:
 ►About 29.38% customers have opted for less than one year subscription.
 
 Insights:
-● Company should focus on customers with less tenure as their churn rate is higher.
-● Ensure a smooth onboarding process to reduce initial frustration and increase long-term retention. This could include offering educational resources, personalized welcome calls, or tiered service plans.
-● High percentage of customers at risk are on month-to-month contracts. Offer these customers incentives for switching to longer contracts, such as loyalty discounts or bundled service packages.
-● Understanding why customers churn is crucial. Conduct surveys or exit interviews to gather customer feedback and identify areas for improvement.
+- Company should focus on customers with less tenure as their churn rate is higher.
+- Ensure a smooth onboarding process to reduce initial frustration and increase long-term retention. This could include offering educational resources, personalized welcome calls, or tiered service plans.
+- High percentage of customers at risk are on month-to-month contracts. Offer these customers incentives for switching to longer contracts, such as loyalty discounts or bundled service packages.
+- Understanding why customers churn is crucial. Conduct surveys or exit interviews to gather customer feedback and identify areas for improvement.
